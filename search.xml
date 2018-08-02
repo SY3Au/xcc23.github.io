@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[真·Hello,world]]></title>
+    <url>%2F2018%2F08%2F02%2F%E7%9C%9F%C2%B7Hello-world.html</url>
+    <content type="text"><![CDATA[又建了一个博客，这已经是xcc的第三个博客了，准备作为分站，主要用于发OI相关的文章。XCC的博客主站地址：http://xccbk.cn 听说可以利用GitHub建博客，已经有一个独立博客的我立马滚过来，网上搜教程，自己弄了一个反正又不要钱，好van♂似的。 之前那篇helloworld是hexo自动生成的，所以写下了这篇真·Hello,world.。 至于记录过程，以后再写吧，先给自己挖个坑。 ———我是分割线——– MarkDown&amp;LaTeX测试： big！♂big2big3粗！♂ $\colorbox{black}{\color{black}\text{测试}}$$$\lim_{\Delta x\to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$$]]></content>
+      <categories>
+        <category>开发纪实</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F07%2F31%2Fhello-world.html</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
